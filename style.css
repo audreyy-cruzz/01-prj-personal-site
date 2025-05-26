@@ -54,7 +54,7 @@
 
 /* Style for the whole page */
 body {
-  font-family: Arial, sans-serif; /* Sets a clean, easy-to-read font */
+  font-family: 'Comic Neue', Arial, sans-serif; /* Use Comic Neue font */
   /* Set the background image for the whole page */
   background-image: url('img/background 3.jpg'); /* Background image */
   background-size: cover; /* Make image cover the whole page */
